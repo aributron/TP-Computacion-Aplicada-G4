@@ -20,7 +20,7 @@ Servidor Debian 12 configurado con:
 
 ## Descripción
 
-* En el presente trabajo práctico se realizó la implementación y configuración integral de un servidor basado en Debian GNU/Linux 12, utilizando una máquina virtual provista por la cátedra.
+* En el presente trabajo práctico se realizó la implementación y configuración integral de un servidor basado en Debian GNU/Linux 12, utilizando la máquina virtual provista.
 
 * Como primera etapa, se efectuó la recuperación y reconfiguración de la cuenta de administrador (root), estableciendo una nueva contraseña y configurando el hostname del sistema como TPServer. Posteriormente, se actualizó completamente el sistema operativo a Debian 12, garantizando la utilización de una plataforma actualizada y segura.
 
@@ -34,4 +34,4 @@ Servidor Debian 12 configurado con:
 
 * Por último, se generaron y comprimieron los directorios solicitados para la entrega, incluyendo la partición del directorio /var en múltiples archivos para facilitar su almacenamiento y publicación en un repositorio GitHub.
 
-* Como resultado, se obtuvo un servidor Linux completamente funcional, con servicios de acceso remoto, servidor web, base de datos, almacenamiento persistente y mecanismos automatizados de respaldo, cumpliendo con todos los requerimientos establecidos por la consigna del trabajo práctico.
+* Como resultado, se obtuvo un servidor Linux completamente funcional, con servicios de acceso remoto, servidor web, base de datos, almacenamiento persistente y mecanismos automatizados de respaldo.
